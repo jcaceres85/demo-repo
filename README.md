@@ -3,7 +3,7 @@ Repositorio de Prueba
 
 ![Logo](https://geoportalouot.unah.edu.hn/uploaded/img/2021/08/Logos_Geoportal_web.png)
 
-* Tabla de Contenido
+Tabla de Contenido
 ==========
 - [Instrucciones](#instrucciones)
 - [Creditos](#creditos)
