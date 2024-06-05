@@ -7,6 +7,8 @@ Tabla de Contenido
 ==========
 - [Instrucciones](#instrucciones)
 - [Creditos](#creditos)
+- [Paises de Centroamerica](#paises-ca)
+- [Contacto](#contacto)
 
 # Intrucciones
 Este es un repositorio de la clase CTE-334
